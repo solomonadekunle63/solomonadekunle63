@@ -4,22 +4,26 @@
 
 ***
 ### Programming Langauge
-* SQL
 * Python(Pandas, Numpy, Matplotlib, SciPy, Sklearn, Statsmodels)
+* SQL
+* R
 * HTML
 ***
 ### Frameworks
-* TensorFlow
+* Tensorflow and Keras
+* Pandas
+* Matplotlib
 * Scikit-Learn
-* Flask
+* Pytorch
+* Natural Language Toolkit
 ***
 ### Data Science Tools
+* Python (Jupyter Notebook)
+* MySQL
 * Microsoft Power BI
 * Tableau
 * Microsoft Excel
 * Google Analytics
-* MySQL
-* Python (Jupyter Notebook)
 <!--
 **solomonadekunle63/solomonadekunle63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
