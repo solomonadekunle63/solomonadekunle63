@@ -27,6 +27,7 @@ I'm a passionate and results-driven data scientist with a knack for transforming
 #### 🌐 Beyond the Numbers:
 - **Continuous Learner:** The world of data science is ever-evolving, and I relish staying updated on the latest trends, tools, and methodologies.
 - **Effective Communicator:** Whether presenting findings to stakeholders or creating tutorials, I excel in articulating complex concepts in an accessible manner.
+***
 **Thanks for stopping by! 🚀✨**
 <!--
 **solomonadekunle63/solomonadekunle63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
