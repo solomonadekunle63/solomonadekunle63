@@ -1,5 +1,5 @@
 ## 👋 Hey there, I'm Solomon!
-***
+
 I'm a passionate and results-driven data scientist with a knack for transforming raw data into meaningful insights. Not only do I specialize in building robust machine learning models, but I'm also deeply invested in creating engaging content around data science and analysis. My journey involves a blend of technical expertise, creative problem-solving, and a commitment to delivering impactful results.
 ***
 ### Programming Langauge
